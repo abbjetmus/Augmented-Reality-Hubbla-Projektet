@@ -21,7 +21,7 @@ Börja med att gå igenom följande 4 tutorials om Unity med AR-Foundation:
 - <a href="https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/">https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/</a>
 - <a href="https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/">https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/</a>
 
-Där efter ska ni gå igenom följande Youtube serie som använder Vuforia istället för AR-Foundation och återskapa apparna där med AR-Foundation. Så ni ska kolla hur han gör men inte göra samma sak i Vuforia utan med AR-Foundation.  
+Där efter ska ni gå igenom följande Youtube serie som använder Vuforia istället för AR-Foundation och återskapa någon av apparna där med AR-Foundation. Så ni ska kolla hur han gör men inte göra samma sak i Vuforia utan med AR-Foundation.  
 Videoserien är på 11h och 39 min, men första 6h och 25 min är genomgång av C# som vi redan gjort, känner man sig ringrostig i C# får man gärna gå igenom det också. I videon skapas några enklare AR-appar som är bra att göra själv för att komma i gång med grunderna i AR med Unity men med AR-Foundation istället för Vuforia.
 
 - <a href="https://www.youtube.com/watch?v=WzfDo2Wpxks">https://www.youtube.com/watch?v=WzfDo2Wpxks</a><br>
@@ -30,6 +30,8 @@ Videoserien är på 11h och 39 min, men första 6h och 25 min är genomgång av 
 En liten labb om man vill gå igenom men inte obligatorisk:
 
 - <a href="https://codelabs.developers.google.com/arcore-unity-ar-foundation#0">Code Labs</a>
+
+Tycker man det är för trixigt med upplägget ovan kan man försöka hitta andra tutorials med Unity och AR-Foundation.
 
 ## DEL 2. Välja digital miljö att skapa
 
