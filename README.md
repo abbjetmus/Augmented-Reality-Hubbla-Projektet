@@ -16,10 +16,10 @@ Vi ska använda AR-Foundation.
 
 Börja med att gå igenom följande 4 tutorials om Unity med AR-Foundation:
 
-- https://www.andreasjakl.com/ar-foundation-fundamentals-with-unity-part-1/
-- https://www.andreasjakl.com/trackables-and-managers-in-ar-foundation-part-2/
-- https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/
-- https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/
+- <a href="https://www.andreasjakl.com/ar-foundation-fundamentals-with-unity-part-1/">https://www.andreasjakl.com/ar-foundation-fundamentals-with-unity-part-1/</a>
+- <a href="https://www.andreasjakl.com/trackables-and-managers-in-ar-foundation-part-2/">https://www.andreasjakl.com/trackables-and-managers-in-ar-foundation-part-2/</a>
+- <a href="https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/">https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/</a>
+- <a href="https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/">https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/</a>
 
 Där efter ska ni gå igenom följande Youtube serie som använder Vuforia istället för AR-Foundation och återskapa apparna där med AR-Foundation. Så ni ska kolla hur han gör men inte göra samma sak i Vuforia utan med AR-Foundation.  
 Videoserien är på 11h och 39 min, men första 6h och 25 min är genomgång av C# som vi redan gjort, känner man sig ringrostig i C# får man gärna gå igenom det också. I videon skapas några enklare AR-appar som är bra att göra själv för att komma i gång med grunderna i AR med Unity men med AR-Foundation istället för Vuforia.
