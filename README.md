@@ -11,8 +11,18 @@ Mindflower kommer tillhandahålla ett Unity skalprojekt som utgångspunkt för e
 
 ## DEL 1. Resurser att gå igenom
 
-Youtube serie att gå igenom och resurser från följande hemsida.  
-Videoserien är på 11h och 39 min, men första 6h och 25 min är genomgång av C# som vi redan gjort, känner man sig ringrostig i C# får man gärna gå igenom det också. I videon skapas några enklare AR-appar som är bra att göra själv för att komma i gång med grunderna i AR med Unity.
+När man jobbar med AR i Unity så gör man det med antingen AR-Foundation eller Vuforia.
+Vi ska använda AR-Foundation.
+
+Börja med att gå igenom följande 4 tutorials om Unity med AR-Foundation:
+
+- https://www.andreasjakl.com/ar-foundation-fundamentals-with-unity-part-1/
+- https://www.andreasjakl.com/trackables-and-managers-in-ar-foundation-part-2/
+- https://www.andreasjakl.com/raycast-anchor-placing-ar-foundation-holograms-part-3/
+- https://www.andreasjakl.com/2d-image-tracking-with-ar-foundation-part-4/
+
+Där efter ska ni gå igenom följande Youtube serie som använder Vuforia istället för AR-Foundation och återskapa apparna där med AR-Foundation. Så ni ska kolla hur han gör men inte göra samma sak i Vuforia utan med AR-Foundation.  
+Videoserien är på 11h och 39 min, men första 6h och 25 min är genomgång av C# som vi redan gjort, känner man sig ringrostig i C# får man gärna gå igenom det också. I videon skapas några enklare AR-appar som är bra att göra själv för att komma i gång med grunderna i AR med Unity men med AR-Foundation istället för Vuforia.
 
 - <a href="https://www.youtube.com/watch?v=WzfDo2Wpxks">https://www.youtube.com/watch?v=WzfDo2Wpxks</a><br>
 - <a href="https://arcourse.netlify.app/index.html">https://arcourse.netlify.app/index.html</a><br>
