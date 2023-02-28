@@ -25,7 +25,7 @@ Jag har testat att det fungerar på 2022.1.23f1. Vill man vara säker installera
 
 När man skapat ett projekt dyker det upp ett antal varningar men ignorera dessa:
 
-<img src="./images/errors.PNG">
+<img src="./images/errors.png">
 
 Det går inte att testa appen i Unity direkt utan man behöver använda en Android telefon som har stöd för Augmented Reality. Telefonen måste även vara i utvecklarläge vilket man ställer in i inställningar, kolla på den här: <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-on-the-developer-options-menu-on-my-samsung-galaxy-device/">https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-on-the-developer-options-menu-on-my-samsung-galaxy-device/</a>  
 Bocka också i USB-felsökning men tror inte det är ett krav.
